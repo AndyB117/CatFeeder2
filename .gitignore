@@ -2,5 +2,5 @@ secrets.h
 *.json
 *.cfg
 *.svd
-.pio/
+.pio
 build
